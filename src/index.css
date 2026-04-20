@@ -7,3 +7,9 @@
 main{ 
     flex-grow: 1;
 }
+
+.avatar-img{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
